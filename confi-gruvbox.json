@@ -5,14 +5,14 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#ebdbb2",
+          "background": "#fbf1c7",
           "foreground": "#1d2021",
           "style": "powerline",
           "template": "{{ if .WSL }}WSL at{{ end }} {{.Icon}} ",
           "type": "os"
         },
         {
-          "background": "#458588",
+          "background": "#d5c4a1",
           "foreground": "#282828",
           "powerline_symbol": "\ue0b0",
           "options": {
